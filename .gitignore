@@ -1,0 +1,8 @@
+
+#IntelliJ .idea directory
+.idea
+*.iml
+
+# Log file
+*.log
+
